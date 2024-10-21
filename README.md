@@ -16,7 +16,7 @@
 ## Installation:
 1. Clone the repository:
 ```
-git clone https://github.com/douglascybersec/Random-Passwds.git
+git clone https://github.com/therootdir/Random-Passwds.git
 
 ```
 
